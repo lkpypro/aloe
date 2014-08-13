@@ -1,0 +1,8 @@
+[ 2014-07-03T21:55:10+08:00 ] 192.168.2.10 /index.php?s=/admin/think/lists/model/document.html
+ERR: 1054:Unknown column 'status_text' in 'field list'
+ [ SQL语句 ] : SELECT `id`,`category_id`,`title`,`type`,`level`,`update_time`,`status_text`,`view` FROM `onethink_document` ORDER BY id DESC LIMIT 0,10  
+
+[ 2014-07-03T21:58:08+08:00 ] 192.168.2.10 /index.php?s=/admin/think/lists/model/document.html
+ERR: 1054:Unknown column 'status_text' in 'field list'
+ [ SQL语句 ] : SELECT `id`,`category_id`,`title`,`type`,`level`,`update_time`,`status_text`,`view` FROM `onethink_document` ORDER BY id DESC LIMIT 0,10  
+
