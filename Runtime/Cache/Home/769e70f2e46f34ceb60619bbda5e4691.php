@@ -3,10 +3,11 @@
 <head>
 	<meta charset="UTF-8">
 	<title>一个好的内容管理框架</title>
-	<link rel="stylesheet" type="text/css" href="http://myjs/bootstrap/css/bootstrap.css">
-    <link rel="stylesheet" type="text/css" href="myblog.css">
-	<script type="text/javascript" src="http://myjs/bootstrap/js/jquery-2.1.1.min.js"></script>
-	<script type="text/javascript" src="http://myjs/bootstrap/js/bootstrap.js"></script>
+	<link href="/Public/static/bootstrap3/css/bootstrap.css" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="/Public/Home/css/myblog.css">
+	<script type="text/javascript" src="/Public/static/jquery-2.1.1.min"></script>
+	<script type="text/javascript" src="/Public/static/bootstrap3/js/bootstrap.js"></script>
+	
 </head>
 <body>
 	<!-- 头部 -->
@@ -59,7 +60,7 @@
 	<div style="margin-top:40px;">
 		<header class="jumbotron">
 			<div class="container">
-				<img src="http://myjs/onethink/images/img01.jpg"/>
+				<img src="/Public/Home/images/img01.jpg"/>
 			</div>
 		</header>
 	</div>
@@ -89,7 +90,7 @@
 							<div class="col-xs-4">
 								<figure class="thumbnail">
 									<a href="#">
-										<img src="http://myjs/onethink/images/1.jpg" alt=""></a>
+										<img src="/Public/Home/images/1.jpg" alt=""></a>
 								</figure>
 							</div>
 							<div class="col-xs-8">
@@ -143,7 +144,7 @@
 							<div class="col-xs-4">
 								<figure class="thumbnail">
 									<a href="#">
-										<img src="http://myjs/onethink/images/1.jpg" alt=""></a>
+										<img src="/Public/Home/images/1.jpg" alt=""></a>
 								</figure>
 							</div>
 							<div class="col-xs-8">
@@ -273,21 +274,21 @@
 						<ul>
 							<li>
 								<a href="#">
-									<img width="32px" height="32px" src="http://myjs/onethink/images/touxiang.png" alt="">
+									<img width="32px" height="32px" src="/Public/Home/images/touxiang.png" alt="">
 									<b><span class="comment_author">老虎</span></b> 
 									<p>天天等主题啊鸟哥</p>
 								</a> 
 							</li>
 							<li>
 								<a href="#">
-									<img width="32px" height="32px" src="http://myjs/onethink/images/touxiang.png" alt="">
+									<img width="32px" height="32px" src="/Public/Home/images/touxiang.png" alt="">
 									<b><span class="comment_author">老虎</span></b> 
 									<p>天天等主题啊鸟哥</p>
 								</a> 
 							</li>
 							<li>
 								<a href="#">
-									<img width="32px" height="32px" src="http://myjs/onethink/images/touxiang.png" alt="">
+									<img width="32px" height="32px" src="/Public/Home/images/touxiang.png" alt="">
 									<b><span class="comment_author">老虎</span></b> 
 									<p>天天等主题啊鸟哥</p>
 								</a> 

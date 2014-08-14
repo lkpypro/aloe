@@ -1,0 +1,59 @@
+@charset "utf-8";
+/* CSS Document */
+body{font: 14px "Microsoft YaHei", 微软雅黑, Helvetica, Arial, Lucida Grande,Tahoma,sans-serif;}
+a{color: #000;}
+a:hover{color: #3b8dbd;text-decoration: none;}
+ul{list-style-type: none;}
+
+.index-article{padding: 0px 15px;margin-top: 15px;}
+.index-article .entry-header{}
+.index-article a:hover{text-decoration: none;}
+.index-article .entry-site{text-indent: 2em;line-height: 20px;}
+.index-article .entry-meta span{
+	margin-left: 1px;
+	margin-right: 1px;
+	color: #8b8b8b;
+	margin-top: 10px;
+}
+.index-article .entry-more{
+	float: right;
+}
+
+
+.blog-widget{padding: 0px;margin-top: 15px;}
+.blog-widget .widget-title{border-bottom: 1px solid #ccc;font-size: 18px;line-height: 32px;margin-top: 2px;}
+.blog-widget .widget-title span{margin-left: 5px;}
+.blog-widget .widget-list {list-style-type: none;margin-left:-20px;}
+.blog-widget .widget-list li a{line-height: 26px;} 
+
+.blog-widget .widget-message {}
+.blog-widget .widget-message ul{list-style: none outside none;margin-left:-60px;}
+.blog-widget .widget-message li{border-bottom: 1px dashed #dadada;height: 44px; padding-bottom: 12px;font-size: 12px;margin-right: 12px;}
+.blog-widget .widget-message li img{float: left;margin-right: 5px;margin-top: 5px;}
+.blog-widget .widget-message li a{text-decoration: none;}
+
+.blog-content{padding: 0px 15px;padding-bottom:10px;margin-top: 15px;}
+.blog-content .content-header {margin-bottom: 10px;}
+.blog-content .content-header h1{font-size: 16px;font-weight: bold;}
+.blog-content .single-content {text-indent: 2em;}
+
+
+.buttom-widget .widget-title{margin-left: 30px;}
+.buttom-widget h3 {font-weight: bold;font-size: 16px;}
+.buttom-widget .nav-widget {margin-top: 10px;}
+
+.comment-widget .comment-list{padding: 10px;padding-bottom: 0px;}
+.comment-widget .comment-list .comment-author{}
+.comment-widget .comment-list img{float: left;margin-right: 5px;margin-top: 5px;}
+.comment-widget .comment-list small{margin: 0px 5px;color: #8b8b8b}
+.comment-widget .children{margin-left: -20px;}
+.comment-widget .children li{padding:0px;padding-top: 5px;margin-top: -5px;border-bottom: 1px dashed #dadada;}
+
+
+.comment-widget .comment-respond{margin: 0px 10px;}
+.comment-widget .comment-respond label{text-align: left;}
+.comment-widget .comment-respond textarea{width: 96%}
+.comment-widget .comment-respond .form-submit{text-align: left;margin-right: 40px;}
+.comment-widget .comment-respond button{width: 40%;margin: 0px 10px;}
+
+footer .site-info{text-align: center;line-height: 40px;}
